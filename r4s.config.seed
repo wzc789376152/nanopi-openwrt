@@ -24,7 +24,7 @@ CONFIG_PACKAGE_luci-app-cpufreq=y
 CONFIG_PACKAGE_luci-app-ddns=y
 CONFIG_PACKAGE_luci-app-ddnsto=y
 CONFIG_PACKAGE_luci-app-diskman=y
-CONFIG_PACKAGE_luci-app-dockerman=y
+CONFIG_PACKAGE_luci-app-docker=y
 CONFIG_DOCKER_OPTIONAL_FEATURES=y
 CONFIG_PACKAGE_luci-app-filetransfer=y
 CONFIG_PACKAGE_luci-app-frpc=y
@@ -61,6 +61,7 @@ CONFIG_PACKAGE_luci-theme-infinityfreedom=y
 CONFIG_PACKAGE_luci-app-zerotier=y
 
 CONFIG_PACKAGE_bash=y
+CONFIG_PACKAGE_docker=y
 CONFIG_PACKAGE_coremark=y
 CONFIG_PACKAGE_coreutils-truncate=y
 CONFIG_PACKAGE_curl=y
