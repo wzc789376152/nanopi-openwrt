@@ -19,11 +19,11 @@ https://github.com/klever1988/nanopi-openwrt/releases
 
 ### 终端内在线升级方法：
 ```bash
-wget -qO- https://github.com/klever1988/nanopi-openwrt/raw/master/scripts/autoupdate.sh | sh
+wget -qO- https://github.com/wzc789376152/nanopi-openwrt/raw/master/scripts/autoupdate.sh | sh
 ```
 slim版
 ```bash
-wget -qO- https://github.com/klever1988/nanopi-openwrt/raw/master/scripts/autoupdate.sh | ver=-slim sh
+wget -qO- https://github.com/wzc789376152/nanopi-openwrt/raw/master/scripts/autoupdate.sh | ver=-slim sh
 ```
 (脚本由gary lau提供，非常感谢！)
 
@@ -45,7 +45,7 @@ wget -qO- https://github.com/klever1988/nanopi-openwrt/raw/master/scripts/autoup
 https://github.com/klever1988/nanopi-openwrt/blob/master/CHANGELOG.md
 
 #### 本固件NAT基准性能测试：
-<img src="https://raw.githubusercontent.com/klever1988/nanopi-openwrt/master/assets/NAT.jpg" width="450" />
+<img src="https://raw.githubusercontent.com/wzc789376152/nanopi-openwrt/master/assets/NAT.jpg" width="450" />
 
 #### 固件源码：
 https://github.com/immortalwrt/immortalwrt
